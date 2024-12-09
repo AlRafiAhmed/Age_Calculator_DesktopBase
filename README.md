@@ -1,6 +1,8 @@
 # ✨ Magical Age Calculator ✨
 
 Transform your birthday into a magical journey! This enchanting age calculator brings fun and whimsy to discovering your exact age, down to the day. Built with modern technology and sprinkled with delightful animations! 🎈✨
+![Screenshot 2024-12-09 154049](https://github.com/user-attachments/assets/5848ee69-9dea-4b9c-a6da-dc4112112574)
+
 
 ## 🌟 What Makes It Special?
 
